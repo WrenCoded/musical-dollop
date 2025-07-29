@@ -18,7 +18,6 @@ assignees: ""
 - [ ] Basic routes work in browser
 - [ ] Navigation Bar is created
 - [ ] Navigation links switch views without page reload 
-- [ ] Added to `README.md` with usage example
 
 ## Additional Context
 *Helpful links:*
