@@ -1,13 +1,4 @@
 ---
-name: Task Template
-about: 'example task, use for task delegation in group project '
-title: 'Example Task: Set Up React Router'
-labels: ''
-assignees: ''
-
----
-
----
 title: "Set Up React Router"
 ---
 
