@@ -1,31 +1,28 @@
 ---
 name: Task Template
-about: 'use for task delegation in group project '
-title: 'TASK: [task name] '
+about: 'example task, use for task delegation in group project '
+title: 'Example Task: Set Up React Router'
 labels: ''
 assignees: ''
 
 ---
 
-```markdown
 ---
-name: Task
-about: Track a specific work item for the project
-title: "[Task] [Brief Description]"
-labels: "task"
-assignees: ""
+title: "Set Up React Router"
 ---
 
 ## Description
-*Clearly explain what needs to be done:*
-- 
-- 
+*What needs to be done:*
+- Install React Router DOM package
+- Configure basic routes (Home, About, Contact)
+- Set up navigation links
 
 ## Completion Criteria
-*How we'll know this task is done:*
-- [ ] Criteria 1 (e.g., "API endpoint returns 200 response")
-- [ ] Criteria 2 (e.g., "Documentation updated in README")
-- [ ] Criteria 3 (e.g., "Peer review completed")
+*We'll know this is done when:*
+- [ ] Basic routes work in browser (no 404 errors)
+- [ ] Navigation links switch views without page reload
+- [ ] Added to `README.md` with usage example
 
 ## Additional Context
-*Add screenshots, links, or other helpful context:*
+*Helpful links:*
+- [React Router Docs](https://reactrouter.com/)
