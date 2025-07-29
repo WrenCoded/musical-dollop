@@ -7,13 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Sub-task
-about: Break a larger task into smaller pieces
-title: "[Sub-task] [Parent Issue #] - [Brief Description]"
-labels: "sub-task"
-assignees: ""
----
 
 ## Parent Issue
 # [Link to main issue] (e.g., #42 "Set Up React Router")
