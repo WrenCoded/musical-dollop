@@ -1,11 +1,11 @@
 ---
-name: Task
+name: task-template
 about: Use thise template to track a specific work item for the project
-title: "example: Set Up React Router"
-labels: "task"
-assignees: ""
----
+title: 'example: Set Up React Router'
+labels: task
+assignees: WrenCoded
 
+---
 
 ## Description
 *What needs to be done:*
