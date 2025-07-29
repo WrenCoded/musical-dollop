@@ -1,6 +1,6 @@
 ---
 name: Task
-about: Track a specific work item for the project
+about: Use thise template to track a specific work item for the project
 title: "example: Set Up React Router"
 labels: "task"
 assignees: ""
