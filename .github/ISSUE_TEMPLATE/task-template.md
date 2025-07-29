@@ -1,6 +1,11 @@
 ---
-title: "Set Up React Router"
+name: Task
+about: Track a specific work item for the project
+title: "example: Set Up React Router"
+labels: "task"
+assignees: ""
 ---
+
 
 ## Description
 *What needs to be done:*
