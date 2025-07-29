@@ -15,8 +15,9 @@ assignees: ""
 
 ## Completion Criteria
 *We'll know this is done when:*
-- [ ] Basic routes work in browser (no 404 errors)
-- [ ] Navigation links switch views without page reload
+- [ ] Basic routes work in browser
+- [ ] Navigation Bar is created
+- [ ] Navigation links switch views without page reload 
 - [ ] Added to `README.md` with usage example
 
 ## Additional Context
