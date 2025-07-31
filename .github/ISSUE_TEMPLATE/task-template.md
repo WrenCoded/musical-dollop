@@ -3,7 +3,6 @@ about: **Use this template to track a specific work item for the project**
 title: ''
 labels: task
 assignees:
-
 --------------------------------------------------------------------------------
 
 #### Description
