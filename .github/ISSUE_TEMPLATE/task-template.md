@@ -1,9 +1,10 @@
+---
 name: task-template
-about: **Use this template to track a specific work item for the project**
+about: Use this template to track a specific work item for the project
 title: ''
 labels: task
 assignees:
---------------------------------------------------------------------------------
+---
 
 #### Description
 *What needs to be done:*
