@@ -1,10 +1,18 @@
 ---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: "[TASK]"
+labels: ''
+assignees: ''
+
+---
+
+---
 name: task-template
 about: Use this template to track a specific work item for the project
 title: ''
 labels: task
-assignees: ''
-
+assignees:
 ---
 
 #### Description

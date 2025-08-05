@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-
 ## Parent Issue
 # [Link to main issue] (e.g., #42 "Set Up React Router")
 
